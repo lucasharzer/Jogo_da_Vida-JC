@@ -14,3 +14,9 @@ Um jogo criado em 1970 por John Horton Conway, matemático britânico, que repro
 - Segunda Regra: Qualquer célula viva com mais de 3 vizinhos vivos morre de superpopulação;
 - Terceira Regra: Qualquer célula morta com exatamente 3 vizinhos vivos se torna uma célula viva;
 - Quarta Regra: Qualquer célula viva com 2 ou 3 vizinhos vivos continua no mesmo estado para a próxima geração.
+
+# Observações sobre o código
+
+- Feito em Python;
+- tabela bidimensional com 40 linhas e 40 colunas;
+- Uso do módulo tkinter para criar interface gráfica;
