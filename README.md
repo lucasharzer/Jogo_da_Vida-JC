@@ -2,7 +2,7 @@
 
 # Descrição 
 
-Um jogo criado em 1970 por John Horton Conway, matemático britânico, que reproduz as alterações e mudanças em grupos de seres vivos com esse modelo de evolução temporal (autômato celular).
+Um jogo criado em 1970 por John Horton Conway, matemático britânico, que reproduz as alterações e mudanças em grupos de seres vivos com um modelo de evolução temporal (autômato celular).
 
 - Não possui jogador, pois a evolução do jogo é definido pelo estado inicial das células;
 - Tabela bidimensional;
