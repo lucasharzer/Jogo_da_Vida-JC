@@ -19,4 +19,4 @@ Um jogo criado em 1970 por John Horton Conway, matemático britânico, que repro
 
 - Feito em Python;
 - tabela bidimensional com 40 linhas e 40 colunas;
-- Uso do módulo tkinter para criar interface gráfica;
+- Uso do módulo tkinter para criar interface gráfica (não é necessário instalação);
