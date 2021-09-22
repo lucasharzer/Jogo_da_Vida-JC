@@ -30,7 +30,7 @@ python jogo.py
 # Resultado
 
 <span align="center">
-    <img src="https://user-images.githubusercontent.com/85804895/134362858-4bcd93f9-23f1-4a53-a8f3-dc4dbed9572d.png">
+    <img src="https://user-images.githubusercontent.com/85804895/134362858-4bcd93f9-23f1-4a53-a8f3-dc4dbed9572d.png", width=900>
 </span>
 
 <span align="center">
