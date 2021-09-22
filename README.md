@@ -1,4 +1,4 @@
-#                                                                 Jogo da Vida de John Conway
+# Jogo da Vida de John Conway
 
 # Descrição 
 
