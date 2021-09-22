@@ -18,7 +18,8 @@ Um jogo criado em 1970 por John Horton Conway, matemático britânico, que repro
 # Observações sobre o código
 
 - Feito em Python;
-- tabela bidimensional com 40 linhas e 40 colunas;
+- Tabela bidimensional com 40 linhas e 40 colunas;
+- As células vivas (células em verde) já foram determinadas no código; 
 - Uso do módulo tkinter para criar interface gráfica (não é necessário instalação);
 
 # Comando
@@ -37,3 +38,6 @@ python jogo.py
     <img src="https://user-images.githubusercontent.com/85804895/134362858-4bcd93f9-23f1-4a53-a8f3-dc4dbed9572d.png", width=900>
 </span>
 
+# Referências
+
+- https://guiadoestudante.abril.com.br/estudo/conheca-john-conway-o-matematico-que-criou-o-jogo-da-vida/
