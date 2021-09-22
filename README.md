@@ -41,5 +41,5 @@ python jogo.py
 # Referências
 
 - https://labdegaragem.com/profiles/blogs/jogo-da-vida-de-conway-em-python (Jogo da Vida simples em Python com tkinter)
-- https://guiadoestudante.abril.com.br/estudo/conheca-john-conway-o-matematico-que-criou-o-jogo-da-vida/ (informações sobre o jogo)
+- https://guiadoestudante.abril.com.br/estudo/conheca-john-conway-o-matematico-que-criou-o-jogo-da-vida/ (informações sobre o jogo e o criador)
 - https://www.marcogomes.com/gameoflife/html/ (exemplo do jogo)
