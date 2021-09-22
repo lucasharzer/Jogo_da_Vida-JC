@@ -41,3 +41,4 @@ python jogo.py
 # Referências
 
 - https://guiadoestudante.abril.com.br/estudo/conheca-john-conway-o-matematico-que-criou-o-jogo-da-vida/
+- https://www.marcogomes.com/gameoflife/html/
