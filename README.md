@@ -26,3 +26,13 @@ Um jogo criado em 1970 por John Horton Conway, matemático britânico, que repro
 ```bash
 python jogo.py
 ```
+
+# Resultado
+
+<span align="center">
+    <img src="https://user-images.githubusercontent.com/85804895/134362858-4bcd93f9-23f1-4a53-a8f3-dc4dbed9572d.png">
+</span>
+
+<span align="center">
+    <img src="https://user-images.githubusercontent.com/85804895/134363025-db0e73f7-be87-4e96-98c4-6f5e0f2d4fdc.gif">
+</span>
