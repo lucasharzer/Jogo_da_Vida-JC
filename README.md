@@ -23,8 +23,14 @@ Um jogo criado em 1970 por John Horton Conway, matemático britânico, que repro
 - As células vivas (células em verde) já foram determinadas no código; 
 - Uso do módulo tkinter para criar interface gráfica (não é necessário instalação);
 
-# Comando
+# Comandos
 
+Instalar dependências:
+```bash
+pip install -r requirements.txt
+```
+
+Executar código:
 ```bash
 python jogo.py
 ```
